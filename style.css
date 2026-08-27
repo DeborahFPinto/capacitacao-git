@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f4f7f6;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: #0056b3;
+    margin-bottom: 8px;
+    margin-top: 30px;
+}
+
+h3{
+    margin-bottom: 10px;
+}
+
+.container {
+    background: #ffffff;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    text-align: left;
+}
+
+ul {
+    margin-top: 15px;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+#card-conflito {
+    background-color: #ffeeba;
+    border: 2px solid #ffc107;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#texto-conflito {
+    font-weight: bold;
+    color: #856404;
+}
